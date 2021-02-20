@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/Tarea 2 progra/Ejercicio5/Ejercicio5/bin/Debug/net5.0/Ejercicio5.deps.json
+/Users/macbookpro/Desktop/Tarea 2 progra/Ejercicio5/Ejercicio5/bin/Debug/net5.0/Ejercicio5.runtimeconfig.json
+/Users/macbookpro/Desktop/Tarea 2 progra/Ejercicio5/Ejercicio5/bin/Debug/net5.0/Ejercicio5.runtimeconfig.dev.json
+/Users/macbookpro/Desktop/Tarea 2 progra/Ejercicio5/Ejercicio5/bin/Debug/net5.0/Ejercicio5.dll
+/Users/macbookpro/Desktop/Tarea 2 progra/Ejercicio5/Ejercicio5/bin/Debug/net5.0/ref/Ejercicio5.dll
+/Users/macbookpro/Desktop/Tarea 2 progra/Ejercicio5/Ejercicio5/bin/Debug/net5.0/Ejercicio5.pdb
+/Users/macbookpro/Desktop/Tarea 2 progra/Ejercicio5/Ejercicio5/obj/Debug/net5.0/Ejercicio5.csprojAssemblyReference.cache
+/Users/macbookpro/Desktop/Tarea 2 progra/Ejercicio5/Ejercicio5/obj/Debug/net5.0/Ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/Tarea 2 progra/Ejercicio5/Ejercicio5/obj/Debug/net5.0/Ejercicio5.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/Tarea 2 progra/Ejercicio5/Ejercicio5/obj/Debug/net5.0/Ejercicio5.AssemblyInfo.cs
+/Users/macbookpro/Desktop/Tarea 2 progra/Ejercicio5/Ejercicio5/obj/Debug/net5.0/Ejercicio5.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/Tarea 2 progra/Ejercicio5/Ejercicio5/obj/Debug/net5.0/Ejercicio5.dll
+/Users/macbookpro/Desktop/Tarea 2 progra/Ejercicio5/Ejercicio5/obj/Debug/net5.0/ref/Ejercicio5.dll
+/Users/macbookpro/Desktop/Tarea 2 progra/Ejercicio5/Ejercicio5/obj/Debug/net5.0/Ejercicio5.pdb
+/Users/macbookpro/Desktop/Tarea 2 progra/Ejercicio5/Ejercicio5/obj/Debug/net5.0/Ejercicio5.genruntimeconfig.cache
